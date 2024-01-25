@@ -10,5 +10,4 @@
 
 [Open SSH Server Installation](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#host-key-generation)
 
-
-[def]: ./Images/Apache-Status.PNG
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
